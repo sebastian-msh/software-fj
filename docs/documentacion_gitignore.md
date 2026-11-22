@@ -251,11 +251,6 @@ __marimo__/
 # ===========================================================
 END OF . gitgnore FILE
 
-# "Realizado por: 
-# Sergio Alejandro Cely Carrillo 
-# Joan Sebastian Martínez Atehortua
-# Laura Daniela Díaz Guerrero 
-# Código: 213023A_  2204"
 # ===========================================================
 
 
